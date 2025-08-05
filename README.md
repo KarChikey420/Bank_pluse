@@ -51,16 +51,16 @@ bankpulse/
    Create a `.env` file or fill `config.env` with:
 
    ```env
-   AWS_ACCESS_KEY_ID=your_access_key
-   AWS_SECRET_ACCESS_KEY=your_secret_key
-   AWS_REGION=ap-south-1
-   S3_BUCKET=your_bucket_name
+   AWS_ACCESS_KEY_ID
+   AWS_SECRET_ACCESS_KEY
+   AWS_REGION
+   S3_BUCKET
 
-   DB_NAME=bankpulse
-   DB_USER=postgres
-   DB_PASSWORD=your_db_password
-   DB_HOST=localhost
-   DB_PORT=5432
+   DB_NAME
+   DB_USER
+   DB_PASSWORD
+   DB_HOST
+   DB_PORT
    ```
 
 5. **Run Mechanisms**
